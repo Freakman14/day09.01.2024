@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\bin\Debug\net8.0\Taskw.exe
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\bin\Debug\net8.0\Taskw.deps.json
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\bin\Debug\net8.0\Taskw.runtimeconfig.json
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\bin\Debug\net8.0\Taskw.dll
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\bin\Debug\net8.0\Taskw.pdb
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.AssemblyInfo.cs
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.dll
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\refint\Taskw.dll
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.pdb
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\Taskw.genruntimeconfig.cache
+C:\Users\User\Desktop\C#.WeekEnd\day09.01.2024\ClassTask\Task2\obj\Debug\net8.0\ref\Taskw.dll
